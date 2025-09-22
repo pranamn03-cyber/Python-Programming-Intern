@@ -1,6 +1,6 @@
-Python Programming Intern
-Create a Number Guessing Game
-Solution:
+
+#Create a Number Guessing Game
+#Solution:
 import random   # to generate random numbers
 def play_game():
     # Step 1: Generate a random number between 1 and 100
@@ -34,11 +34,12 @@ def play_game():
 # Run the game
 if __name__ == "__main__":
     play_game()
-Output :
- Welcome to the Number Guessing Game!
-I have chosen a number between 1 and 100. Can you guess it?
-Enter your guess: 10
-Too low! Try again.
-Enter your guess: 20 30 
-X Please enter a valid number.
-Enter your guess:
+#Output :
+ #Welcome to the Number Guessing Game!
+#I have chosen a number between 1 and 100. Can you guess it?
+#Enter your guess: 10
+#Too low! Try again.
+#Enter your guess: 20 30 
+#X Please enter a valid number.
+#Enter your guess:
+
